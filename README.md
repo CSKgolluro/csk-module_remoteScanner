@@ -4,6 +4,8 @@ Module to provide RemoteScanner functionality.
 this module comes with a UI to configure a RemoteScanner.
 For further information check out the documentation.
 Regarding more information please check [docu](http://htmlpreview.github.io/?https://github.com/CSKgolluro/csk-module_remoteScanner/blob/main/CSK_Module_ImagePlayer.html)
+Regarding more information please check gitHack [docu](https://raw.githack.com/CSKgolluro/csk-module_remoteScanner/main/CSK_Module_ImagePlayer.html)
+https://raw.githack.com/CSKgolluro/csk-module_remoteScanner/main/CSK_Module_ImagePlayer.html
 ## Information
 This app / module is part of the ... AS SensorApp Coding Starter Kit developing approach.
 It is programmed in an object oriented way. Some of these modules use kind of "classes" in lua to make it possible to reuse
